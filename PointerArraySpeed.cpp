@@ -1,7 +1,4 @@
 #include <iostream>
-//C++11 specific
-//#include <chrono>
-//#include <time.h>
 #include <windows.h>
 #include <sstream>
 using namespace std;
